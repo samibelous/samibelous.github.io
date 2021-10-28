@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body { 
+    padding-top: 50px;
+	width: 960px;
+    margin: 0px auto; 
+    background-color:lightblue;
+    color:black;
+    font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+        align-content:center;
+    align-items: center;
+ }
+
+h1 {color:  lightcoral; 
+font-family: times new roman;
+}
+
+h2 {color:  lightcoral; 
+font-family: times new roman;
+}
+
+
+h3 {color:  lightcoral; 
+font-family: times new roman;
+}
+
+
+h4 {color:  lightcoral; 
+font-family: times new roman;
+}
+ .center {
+
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  border: 3px solid;
+  padding: 30px;
+
+}
+
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+
+dl {
+  color: lightcoral;
+}
